@@ -19,7 +19,7 @@ metadata:
 spec:
   params:
   - name: dockerfile
-    value: build/Dockerfile
+    value: build/RedHat.dockerfile
   - name: git-url
     value: '{{repo_url}}'
   - name: image-expires-after
